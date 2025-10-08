@@ -1,13 +1,9 @@
-<!-- 🎨 Yunik Yuroidah GitHub Profile -->
+
+<h1 align="center">Hi there 👋, I'm Yunik Yuroidah</h1> 
+<h3 align="center">💻 Informatics Student | Web & App Developer | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yunikyuroidah/repo/main/images/banner.png" width="100%" alt="Profile Banner">
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=F78ECF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yunik+Yuroidah+💻;Informatics+Student+at+Jember+State+Polytechnic;Web+%26+App+Developer;AI+%7C+Automation+%7C+Full-stack+Learner;Open+to+Collaboration+and+AI+Projects" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=F78ECF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Yunik+Yuroidah+✨;Web+%26+App+Developer+💻;AI+%7C+Automation+%7C+Full-stack+Learner;Tech+Enthusiast+🚀;Always+Learning+Something+New+🌱" alt="Typing SVG" />
 </p>
 
 ---
