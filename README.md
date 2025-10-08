@@ -2,7 +2,7 @@
 <h3 align="center">💻 Informatics Student | Web & App Developer | Enthusiastic AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=F78ECF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Yunik+Yuroidah+✨;Web+%26+App+Developer+💻;AI+%7C+Automation+%7C+Full-stack+Learner;Tech+Enthusiast+🚀;Always+Learning+Something+New+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Yunik+Yuroidah+✨;Web+%26+App+Developer+💻;Lifelong+Learner+📚;Tech+Enthusiast+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,php,html,css,tailwind,mysql,mongodb,firebase,androidstudio,vscode,docker,git,github,postman,figma" />
   <br/>
-  <img src="https://img.shields.io/badge/n8n_&_Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF6B00" />
+  <img src="https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
