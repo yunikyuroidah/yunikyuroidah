@@ -41,15 +41,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunikYuroidah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunikYuroidah&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### ✨ Fun Fact
 When I’m not coding, I love exploring **AI concepts**, reading about **emerging tech**, and creating something meaningful through **code and creativity** 💻🌸
