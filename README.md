@@ -8,11 +8,11 @@
 ---
 
 ### 💫 About Me
-🎓 Informatics Engineering Student at **Jember State Polytechnic**  
-💡 Passionate about **Web, Mobile, and AI-powered development**  
-🌱 Currently exploring **Next.js, Tailwind, Firebase, and AI integration**  
-🤝 Open to collaborating on **creative or research-based projects**, especially involving **AI, automation, or full-stack development**  
-✨ I believe the best way to learn is through **real-world practice and collaboration**
+🎓 Informatics Engineering Student at Jember State Polytechnic
+💡 Passionate about Web, Mobile, and AI-powered development 
+🌱 Currently exploring Next.js, Tailwind, Firebase, and AI integration  
+🤝 Open to collaborating on creative or research-based projects, especially involving AI, automation, or full-stack development  
+✨ I believe the best way to learn is through real-world practice and collaboration
 
 ---
 
@@ -38,8 +38,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="50px" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### ✨ Fun Fact
-When I’m not coding, I love exploring **AI concepts**, reading about **emerging tech**, and creating something meaningful through **code and creativity** 💻🌸
